@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.3;
+  max-width: 100%;
+  margin: 0;
+  padding: 0.5em;
+  background: lightgrey;
+  color: black;
+  font-family: helvetica, arial, roboto, sans-serif;
+}

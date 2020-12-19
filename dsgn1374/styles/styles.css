@@ -1,0 +1,43 @@
+body {
+	background-color: #00bcd454;
+	color: black;
+	font-family: "Helvetica", "times new roman", sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 1.4;
+	max-width: 55em;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 8px;
+}
+
+em {
+	color: black;
+	display: block;
+	margin-bottom: 24px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h2 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 32px;
+	border: groove;
+	border-color: red;
+	border-top-left-radius: 12px;
+	border-top-right-radius: 12px;
+	border-bottom-right-radius: 12px;
+	border-bottom-left-radius: 12px;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 16px;
+	text-indent: 8px;
+}
